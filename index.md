@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Metrognome"
+title: "Home"
 ---
 
 # {{site.title}}
