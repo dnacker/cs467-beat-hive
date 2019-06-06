@@ -8,11 +8,15 @@ title: "Credits"
 
 ### Contributors
 
-About us!
+#### David Ackerman
 
-### Android Stack
+#### Reed Miller
 
-Development of the project took place in [AndroidStudio](https://developer.android.com/studio). We used API 27 and often referred to the Android developer documentation.
+#### Adam Page
+
+### Development Technology
+
+Development of the project took place in [AndroidStudio](https://developer.android.com/studio). We used API 27 and often referred to the Android developer documentation. Task tracking was done with Asana, and all other communication took place over Slack and Discord.
 
 ### Website
 
