@@ -3,11 +3,9 @@ layout: default
 title: "Home"
 ---
 
-# {{site.title}}
-
 ## Announcing v1.0
 
-### [Version 1.0](https://github.com/dnacker/cs467-beat-hive/releases/tag/v1.0)
+### [Click here to get Version 1.0](https://github.com/dnacker/cs467-beat-hive/releases/tag/1.01)
 
 ## About Beat Hive
 
